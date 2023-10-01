@@ -6,7 +6,7 @@
 #include <vector>
 
 // Pаскомментировать строку ниже, чтобы отключить assert()
-//#define NDEBUG
+#define NDEBUG
 #include <cassert>
 #include "136_headers.h"
 

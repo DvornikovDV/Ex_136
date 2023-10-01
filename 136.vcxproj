@@ -128,7 +128,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="136.cpp" />
+    <ClCompile Include="136_main.cpp" />
+    <ClCompile Include="136_functions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="136_headers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
